@@ -235,5 +235,5 @@ class Task
 
 # Start up the code when the DOM is fully loaded.
 $ ->
-  client = new Dropbox.Client key: '49k5aeovcioe28d'
+  client = new Dropbox.Client key: 'pcienzv6gciarcv'
   window.app = new Checkbox client, '#app-ui'
