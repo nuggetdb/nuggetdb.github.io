@@ -1,3 +1,3 @@
 # NuggetDB
 
-This repo powers nuggetdb.com
+This repo powers https://nuggetdb.com
